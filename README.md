@@ -22,13 +22,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/weather-forecast-app.git
+   git clone https://github.com/yourusername/weather_forcast.git
    
    ```
 
 2. Navigate to the project directory:
    ```
-   cd weather-forecast-app
+   cd weather_forcast
    ```
 3. Install required dependencies:
    ```
