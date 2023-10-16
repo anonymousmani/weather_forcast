@@ -27,9 +27,9 @@ Before you begin, ensure you have met the following requirements:
    ```
 
 2. Navigate to the project directory:
-```
-$ cd weather-forecast-app
-```
+   ```
+   cd weather-forecast-app
+   ```
 3. Install required dependencies:
 ```
 $ pip install -r requirements.txt
