@@ -34,7 +34,7 @@ $ pip install -r requirements.txt
 ## Usage
 4. Run the application:
 
-$ python weather_forcast_app.py
+$ python weather_forecast_app.py
 
 Follow the on-screen instructions to input the location and retrieve weather information.
 
