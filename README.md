@@ -21,21 +21,28 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/weather-forecast-app.git
+   
+   ```
 
 2. Navigate to the project directory:
-
+```
 $ cd weather-forecast-app
-
+```
 3. Install required dependencies:
-
+```
 $ pip install -r requirements.txt
+```
+4. Configure configuration.py
+  ``` 
+$ python configuration.py
+```
 ## Usage
-4. Run the application:
-
+5. Run the application:
+```
 $ python weather_forecast_app.py
-
+```
 Follow the on-screen instructions to input the location and retrieve weather information.
 
 Contributing
