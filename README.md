@@ -32,16 +32,16 @@ Before you begin, ensure you have met the following requirements:
    ```
 3. Install required dependencies:
 ```
-$ pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 4. Configure configuration.py
   ``` 
-$ python configuration.py
+   python configuration.py
 ```
 ## Usage
 5. Run the application:
 ```
-$ python weather_forecast_app.py
+    python weather_forecast_app.py
 ```
 Follow the on-screen instructions to input the location and retrieve weather information.
 
